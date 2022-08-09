@@ -22,7 +22,7 @@
 ## Statistics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Denwer81&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Denwer81&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ## You can contact me:
 
