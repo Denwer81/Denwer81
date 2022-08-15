@@ -19,12 +19,12 @@
 
 <br/>
 
-## Statistics
+## Статистика
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Denwer81&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Denwer81&theme=default)
 
-## You can contact me:
+## Мои контакты:
 
 <a href="https://t.me/demalaron"><img src="https://user-images.githubusercontent.com/94468513/163724176-dcda87dd-727a-4192-9b46-2be4dc2b644e.png" height="53">
