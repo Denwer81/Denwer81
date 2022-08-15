@@ -1,14 +1,14 @@
-# Hello, I'm Denis
+# Привет, я Денис.
 
-### I'm a junior frontend-developer :computer:
+### Я junior frontend-developer :computer:
 
-### I like:
-- :snowboarder: snowboarding
-- :bicyclist: travel
-- and certainly :computer: coding
+### Я люблю:
+- :snowboarder: кататься на сноуборде
+- :bicyclist: путешествовать
+- и конечно :computer: кодить!
 
 
-### My stack:
+### Мой стек:
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
