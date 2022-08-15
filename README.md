@@ -1,6 +1,6 @@
 # Привет, я Денис.
 
-### Я junior frontend-developer :computer:
+### Я Веб-разработчик :computer:
 
 ### Я люблю:
 - :snowboarder: кататься на сноуборде
